@@ -1,9 +1,9 @@
-# BeautifulSoup
+## BeautifulSoup
 Beautiful Soup is a library that makes it easy to scrape information
 from web pages. It sits atop an HTML or XML parser, providing Pythonic
 idioms for iterating, searching, and modifying the parse tree.
 
-## Environment Setup and Installation
+### Environment Setup and Installation
 
 ```bash
 ~/> cd beautifulsoup
@@ -49,7 +49,7 @@ beautifulsoup/bs4/tests:~/ pytest
 
 
 
-# Quick start
+## Quick start
 
 ```
 >>> from bs4 import BeautifulSoup
@@ -91,7 +91,7 @@ beautifulsoup/bs4/tests:~/ pytest
 
 
 
-# Links
+## Links
 
 * [Homepage](https://www.crummy.com/software/BeautifulSoup/bs4/)
 * [Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
