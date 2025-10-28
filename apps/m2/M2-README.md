@@ -39,7 +39,7 @@ SoupReplacer(og_tag, alt_tag)
 
 ### Integration
 
-We modified the constructor of `BeautifulSoup` in `bs4/__init__.py` to accept a `replacer` argument and injected tag-replacement logic in the parsing phase.
+Modified the constructor of `BeautifulSoup` in `bs4/__init__.py` to accept a `replacer` argument and injected tag-replacement logic in the parsing phase.
 
 ---
 
