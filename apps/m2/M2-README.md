@@ -18,7 +18,7 @@
 
 ## Custom API – `SoupReplacer`
 
-We added a new API called `SoupReplacer` to replace tags **during parsing**, rather than after.
+Added a new API called `SoupReplacer` to replace tags **during parsing**, rather than after.
 
 ### Usage
 
