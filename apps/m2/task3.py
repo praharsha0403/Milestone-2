@@ -33,4 +33,3 @@ if __name__ == "__main__":
     else:
         #if a file was given, called the function to extract all links from it
         extract_links(sys.argv[1])
-```
