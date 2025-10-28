@@ -20,7 +20,7 @@
 
 We added a new API called `SoupReplacer` to replace tags **during parsing**, rather than after.
 
-### ✔️ Usage
+### Usage
 
 ```python
 from bs4.soupreplacer import SoupReplacer
