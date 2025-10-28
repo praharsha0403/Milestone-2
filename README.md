@@ -16,7 +16,7 @@ beautifulsoup:~/ conda create -n bs4 python=3.10
 beautifulsoup:~/ conda activate bs4
 ```
 
-## OR
+### OR
 
 #### Create ```Venv``` environment and activate it inside ```~/beautifulsoup``` directory
 ```bash
@@ -55,6 +55,9 @@ beautifulsoup/bs4/tests:~/ pytest
 >>> from bs4 import BeautifulSoup
 >>> soup = BeautifulSoup("<p>Some<b>bad<i>HTML")
 >>> print(soup.prettify())
+
+```
+```
 <html>
  <body>
   <p>
