@@ -29,4 +29,4 @@ if __name__ == '__main__':
     else:
         #if a path was given, called the function to extract and print all HTML titles
         extract_titles(sys.argv[1])
-```
+
